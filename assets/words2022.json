@@ -1,242 +1,242 @@
 [
     {
         "word": "climat",
-        "frequency": 43563
+        "frequency": 101764
     },
     {
         "word": "said",
-        "frequency": 36519
+        "frequency": 86716
     },
     {
         "word": "chang",
-        "frequency": 28592
-    },
-    {
-        "word": "australia",
-        "frequency": 22547
+        "frequency": 65468
     },
     {
         "word": "emiss",
-        "frequency": 21937
+        "frequency": 61260
+    },
+    {
+        "word": "australia",
+        "frequency": 56737
     },
     {
         "word": "govern",
-        "frequency": 21638
-    },
-    {
-        "word": "energi",
-        "frequency": 19999
+        "frequency": 47993
     },
     {
         "word": "year",
-        "frequency": 19693
+        "frequency": 43387
     },
     {
         "word": "would",
-        "frequency": 17892
+        "frequency": 42808
     },
     {
-        "word": "cent",
-        "frequency": 15123
+        "word": "energi",
+        "frequency": 41123
     },
     {
         "word": "carbon",
-        "frequency": 14211
+        "frequency": 37006
+    },
+    {
+        "word": "cent",
+        "frequency": 35990
     },
     {
         "word": "need",
-        "frequency": 13904
-    },
-    {
-        "word": "also",
-        "frequency": 13138
-    },
-    {
-        "word": "peopl",
-        "frequency": 11621
-    },
-    {
-        "word": "world",
-        "frequency": 11011
-    },
-    {
-        "word": "australian",
-        "frequency": 10945
-    },
-    {
-        "word": "global",
-        "frequency": 10640
-    },
-    {
-        "word": "nation",
-        "frequency": 10364
-    },
-    {
-        "word": "time",
-        "frequency": 9931
-    },
-    {
-        "word": "includ",
-        "frequency": 9711
-    },
-    {
-        "word": "make",
-        "frequency": 9636
+        "frequency": 29844
     },
     {
         "word": "target",
-        "frequency": 9220
+        "frequency": 29130
     },
     {
-        "word": "like",
-        "frequency": 9139
+        "word": "also",
+        "frequency": 28556
     },
     {
-        "word": "labor",
-        "frequency": 9011
+        "word": "world",
+        "frequency": 28530
     },
     {
-        "word": "say",
-        "frequency": 8985
+        "word": "nation",
+        "frequency": 28097
     },
     {
-        "word": "industri",
-        "frequency": 8969
+        "word": "global",
+        "frequency": 27092
     },
     {
-        "word": "polici",
-        "frequency": 8962
-    },
-    {
-        "word": "work",
-        "frequency": 8896
-    },
-    {
-        "word": "support",
-        "frequency": 8761
-    },
-    {
-        "word": "countri",
-        "frequency": 8488
-    },
-    {
-        "word": "increas",
-        "frequency": 8482
-    },
-    {
-        "word": "action",
-        "frequency": 8433
-    },
-    {
-        "word": "project",
-        "frequency": 8377
-    },
-    {
-        "word": "could",
-        "frequency": 8221
-    },
-    {
-        "word": "compani",
-        "frequency": 8078
-    },
-    {
-        "word": "green",
-        "frequency": 7841
-    },
-    {
-        "word": "plan",
-        "frequency": 7804
-    },
-    {
-        "word": "power",
-        "frequency": 7730
-    },
-    {
-        "word": "reduc",
-        "frequency": 7431
-    },
-    {
-        "word": "invest",
-        "frequency": 7265
-    },
-    {
-        "word": "renew",
-        "frequency": 7219
-    },
-    {
-        "word": "report",
-        "frequency": 7084
-    },
-    {
-        "word": "develop",
-        "frequency": 7065
-    },
-    {
-        "word": "cost",
-        "frequency": 6959
-    },
-    {
-        "word": "communiti",
-        "frequency": 6676
-    },
-    {
-        "word": "impact",
-        "frequency": 6674
-    },
-    {
-        "word": "futur",
-        "frequency": 6618
-    },
-    {
-        "word": "busi",
-        "frequency": 6615
-    },
-    {
-        "word": "take",
-        "frequency": 6583
-    },
-    {
-        "word": "product",
-        "frequency": 6559
-    },
-    {
-        "word": "coal",
-        "frequency": 6498
-    },
-    {
-        "word": "issu",
-        "frequency": 6294
-    },
-    {
-        "word": "elect",
-        "frequency": 6264
-    },
-    {
-        "word": "last",
-        "frequency": 6214
-    },
-    {
-        "word": "want",
-        "frequency": 6175
-    },
-    {
-        "word": "come",
-        "frequency": 6148
-    },
-    {
-        "word": "help",
-        "frequency": 6143
+        "word": "australian",
+        "frequency": 25437
     },
     {
         "word": "zero",
-        "frequency": 6096
+        "frequency": 24316
     },
     {
-        "word": "state",
-        "frequency": 5966
+        "word": "peopl",
+        "frequency": 23756
     },
     {
-        "word": "mani",
-        "frequency": 5925
+        "word": "polici",
+        "frequency": 22578
+    },
+    {
+        "word": "countri",
+        "frequency": 21883
+    },
+    {
+        "word": "make",
+        "frequency": 21880
+    },
+    {
+        "word": "time",
+        "frequency": 21636
+    },
+    {
+        "word": "includ",
+        "frequency": 21567
+    },
+    {
+        "word": "like",
+        "frequency": 21399
+    },
+    {
+        "word": "industri",
+        "frequency": 21049
+    },
+    {
+        "word": "action",
+        "frequency": 20358
+    },
+    {
+        "word": "plan",
+        "frequency": 19975
+    },
+    {
+        "word": "say",
+        "frequency": 19965
+    },
+    {
+        "word": "support",
+        "frequency": 19434
+    },
+    {
+        "word": "could",
+        "frequency": 19219
+    },
+    {
+        "word": "work",
+        "frequency": 18890
+    },
+    {
+        "word": "increas",
+        "frequency": 18693
+    },
+    {
+        "word": "compani",
+        "frequency": 18019
+    },
+    {
+        "word": "coal",
+        "frequency": 17928
+    },
+    {
+        "word": "reduc",
+        "frequency": 17915
+    },
+    {
+        "word": "power",
+        "frequency": 17297
+    },
+    {
+        "word": "project",
+        "frequency": 17168
+    },
+    {
+        "word": "commit",
+        "frequency": 16895
+    },
+    {
+        "word": "invest",
+        "frequency": 16538
+    },
+    {
+        "word": "report",
+        "frequency": 16393
+    },
+    {
+        "word": "labor",
+        "frequency": 16108
+    },
+    {
+        "word": "develop",
+        "frequency": 15623
+    },
+    {
+        "word": "technolog",
+        "frequency": 15535
+    },
+    {
+        "word": "take",
+        "frequency": 15214
+    },
+    {
+        "word": "renew",
+        "frequency": 15147
+    },
+    {
+        "word": "futur",
+        "frequency": 15126
+    },
+    {
+        "word": "cost",
+        "frequency": 15033
+    },
+    {
+        "word": "busi",
+        "frequency": 14943
+    },
+    {
+        "word": "come",
+        "frequency": 14601
+    },
+    {
+        "word": "green",
+        "frequency": 14376
+    },
+    {
+        "word": "want",
+        "frequency": 14162
+    },
+    {
+        "word": "last",
+        "frequency": 14119
+    },
+    {
+        "word": "communiti",
+        "frequency": 13741
+    },
+    {
+        "word": "risk",
+        "frequency": 13660
+    },
+    {
+        "word": "impact",
+        "frequency": 13523
+    },
+    {
+        "word": "issu",
+        "frequency": 13340
+    },
+    {
+        "word": "product",
+        "frequency": 13155
+    },
+    {
+        "word": "morrison",
+        "frequency": 13105
     }
 ]

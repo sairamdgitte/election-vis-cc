@@ -77,26 +77,44 @@ function createBubbleChart(bubbleData, chartName) {
 
 }
 
+
+// General political coverage                       2641
+// Coal mining                                      1038
+// Schooling and education                          1016
+// Breaking temperature records                      821
+// Apocalyptic events                                738
+// Nuclear power                                     514
+// Coral reefs                                       459
+// Climate activism and protests                     428
 const data2019 = [
 
-    {date: new Date("2021-03-01"), value: 1833, label: "GPC"}, //General political coverage
-    { date: new Date("2021-04-01"), value: 818, label: "S&E"}, //Schooling and education
-    { date: new Date("2021-05-01"), value: 768, label: "CM"}, //Coal mining
-    { date: new Date("2021-06-01"), value: 606, label: "BTR"}, //Breaking temperature records
-    { date: new Date("2021-07-01"), value: 512, label: "AE"}, //Apocalyptic events
-    { date: new Date("2021-08-01"), value: 411, label: "CA&P"}, //Climate activism and protests
-    { date: new Date("2021-09-01"), value: 302, label: "WM"}, //Waterways management
-    { date: new Date("2021-10-01"), value: 292, label: "NP"}, //Nuclear power
+    {date: new Date("2021-03-01"), value: 2641, label: "GPC"}, //General political coverage
+    { date: new Date("2021-04-01"), value: 1016, label: "S&E"}, //Schooling and education
+    { date: new Date("2021-05-01"), value: 1038, label: "CM"}, //Coal mining
+    { date: new Date("2021-06-01"), value: 821, label: "BTR"}, //Breaking temperature records
+    { date: new Date("2021-07-01"), value: 738, label: "AE"}, //Apocalyptic events
+    { date: new Date("2021-08-01"), value: 428, label: "CA&P"}, //Climate activism and protests
+    { date: new Date("2021-09-01"), value: 302, label: "CR"}, //Coral reefs
+    { date: new Date("2021-10-01"), value: 514, label: "NP"}, //Nuclear power
 ];
+
+// General political coverage                       1857
+// Breaking temperature records                      955
+// Apocalyptic events                                880
+// Nuclear power                                     738
+// Biofuel                                           732
+// Geopolitics                                       693
+// Coal mining                                       671
+// Coral reefs                                       499
 const data2022 = [
-    { date: new Date("2021-03-01"), value: 879, label: "GPC" }, //General political coverage
-    { date: new Date("2021-04-01"), value: 408, label: "BTR" }, //Breaking temperature records
-    { date: new Date("2021-05-01"), value: 391, label: "Biofuel" },
-    { date: new Date("2021-06-01"), value: 351, label: "AE" }, //Apocalyptic events
-    { date: new Date("2021-07-01"), value: 343, label: "NP" }, //Nuclear power
-    { date: new Date("2021-08-01"), value: 288, label: "CM" }, //Coal mining
-    { date: new Date("2021-09-01"), value: 284, label: "GP" }, //Geopolitics
-    { date: new Date("2021-10-01"), value: 244, label: "CR" } //Coral reefs
+    { date: new Date("2021-03-01"), value: 1857, label: "GPC" }, //General political coverage
+    { date: new Date("2021-04-01"), value: 955, label: "BTR" }, //Breaking temperature records
+    { date: new Date("2021-05-01"), value: 732, label: "Biofuel" },
+    { date: new Date("2021-06-01"), value: 880, label: "AE" }, //Apocalyptic events
+    { date: new Date("2021-07-01"), value: 738, label: "NP" }, //Nuclear power
+    { date: new Date("2021-08-01"), value: 671, label: "CM" }, //Coal mining
+    { date: new Date("2021-09-01"), value: 693, label: "GP" }, //Geopolitics
+    { date: new Date("2021-10-01"), value: 499, label: "CR" } //Coral reefs
 ];
 const margin = { top: 20, right: 20, bottom: 30, left: 50 };
 const width = 500 - margin.left - margin.right;
