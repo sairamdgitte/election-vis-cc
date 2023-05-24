@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Election comparison</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h2>Media articles published during previous two elections</h2>
+    <h3>(Climate Change)</h3>
+    <div id="toggle">Toggle chart</div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-5" id="chart1Background" width="500" height="800">
+                <div id="chart1Container">
+                    <div>
+                        <svg id="chart1" class="chart" width="500" height="1600"></svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5" id="chart2Background" width="500" height="800">
+                <div id="chart2Container">
+                    <div>
+                        <svg id="chart2" class="chart" width="500" height="1600"></svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="election.js"></script>
+</body>
+
+</html>
